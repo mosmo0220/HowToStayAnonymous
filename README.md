@@ -3,7 +3,7 @@
 A set of instructions on how to stay anonymous online
 
 ## List
-- [Browser and connection](BrowserAndConection.md)
+- [Browser and connection](BrowserAndConnection.md)
 - Encrypting Disk:
     * Windows: [Bitlocker](https://en.wikipedia.org/wiki/BitLocker)
     * Linux and MacOs: [VeraCrypt](https://www.veracrypt.fr/en/Home.html) 
