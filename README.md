@@ -1,12 +1,21 @@
 # HowToStayAnonymous
 
-A set of instructions on how to stay anonymous online
+A set of instructions on how to stay anonymous and safe online
 
 ## List
-- [Browser and connection](BrowserAndConnection.md)
-- Encrypting Disk:
-    * Windows: [Bitlocker](https://en.wikipedia.org/wiki/BitLocker)
-    * Linux and MacOs: [VeraCrypt](https://www.veracrypt.fr/en/Home.html) 
-    * Android: [Source](https://source.android.com/security/encryption/full-disk)
-    * Ios: [Source](https://support.apple.com/pl-pl/guide/security/sece3bee0835/web) 
+
+### Hardware
+
+- [Best practices](BestPractices.md)
+- [Encrypting disk](EncryptingDisk.md)
+- [Files](Files.md)
 - More coming soon . . .
+
+### On web
+
+- [Browser and connection](BrowserAndConnection.md)
+- More coming soon . . .
+
+### Defending against hackers
+
+- Coming soon . . .
